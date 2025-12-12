@@ -1,1 +1,1 @@
-# Studies
+# Univwersity Life
