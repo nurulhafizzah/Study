@@ -1,1 +1,1 @@
-# Univwersity Life
+# University Life
