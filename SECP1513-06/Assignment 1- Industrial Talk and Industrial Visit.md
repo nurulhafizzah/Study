@@ -1,8 +1,11 @@
 # Industrial Visit 1 (UTM digital) 
 
 Date : Wednesday (29/10/2025)
+
 Time : 10.15 - 11.15 am
+
 Venue : Dewan Seminar. Level 4, UTMdigital.
+
 Speaker : Helmee Bin Yaacob ( Senior It Officer, Department of Digital Services )
 
 Summarisation :
