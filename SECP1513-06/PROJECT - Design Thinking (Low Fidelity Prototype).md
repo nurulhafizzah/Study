@@ -7,7 +7,7 @@ My team for The Design Thinking Project consist of 4 people; Nurul Iman, Nurin N
 After lots of discussion, our project title is CyberCare(CC): A Smart Online Counseling Platform for Cyberbullying Victims. In short, our project is an online counseling platform, where users can connect to professional counselor online and ofline.
 
 
-*Summarization<br>
+**Summarization**<br>
 Me and my teammates had conduct a lot of discussion to makes this project successful. All of us play a pivotal role by giving ideas and opinion.
 Here is some discription about our website. <br>
 
@@ -37,10 +37,10 @@ The prototype of CyberCare(CC) was to visualize the design and functionality of 
 
 - Calendar or booking system that allows users to schedule real counselling sessions according to the available slots. 
 
-Improvement <br>
+**Improvement** <br>
 Some Improvement that can be made to our project are creating feedback and rate form, enabling users to provide comments and rate after completing the counselling session.
 
-Reflection <br>
+**Reflection** <br>
 a. What is your goal/dream with regard to your course/program? 
 My goal towards my program is to master all the courses that I have learned. I aim to build a strong network and computer security base as I want to pursue my ambition as a cybersecurity analyst. 
 
