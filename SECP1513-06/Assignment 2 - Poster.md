@@ -11,6 +11,9 @@ Some improvement that can be made to smoother the Industrial Talk PPG is by adju
 
 - Reflection <br>
 This talk make me realize how important ICT in today’s world. It does help  increase the technologies and environment of the world. This new information really help me boarden my knowledge about work scope I can persue in the future.
+
+
+
 ![ASSIGNMENT 2 - POSTER](https://github.com/user-attachments/assets/a83f2327-5ce5-4b6c-a01d-56b314c7ccb4)
 
 
