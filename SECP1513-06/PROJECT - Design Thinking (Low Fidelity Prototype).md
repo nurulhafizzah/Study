@@ -56,6 +56,8 @@ Some of the improvements I had planned is to join a workshop that related to cyb
 
 [DESIGN THINKING REPORT](https://github.com/user-attachments/files/24694694/TIS.DESIGN.THINKING.REPORT.CYBERCARE.SECTION.06.pdf)
 
+[DESIGN THINKING PROTOTYPE](https://sites.google.com/view/cybercarecc/home?authuser=0)
+
 
 
 
