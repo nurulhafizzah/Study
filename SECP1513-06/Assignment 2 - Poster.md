@@ -10,9 +10,7 @@ PPG is a trusted company globally with over 140 years of experience operating in
 Some improvement that can be made to smoother the Industrial Talk PPG is by adjusting the volume of the speaker. It is because, as a student, I can't hear the presentation clearly. This problem might be because of internet connection or maybe the speaker itself. 
 
 - Reflection <br>
-This talk make me realize how important ICT in today’s world. It does help  increase the technologies and environment of the world. This new information really help me boarden my knowledge about work scope I can persue in the future.
-
-
+This talk make me realize how important ICT in today’s world. It does help  increase the technologies and environment of the world. This new information really help me boarden my knowledge about work scope I can persue in the future.<br><br>
 
 ![ASSIGNMENT 2 - POSTER](https://github.com/user-attachments/assets/a83f2327-5ce5-4b6c-a01d-56b314c7ccb4)
 
