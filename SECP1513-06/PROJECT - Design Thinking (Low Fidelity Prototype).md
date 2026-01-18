@@ -53,7 +53,8 @@ Some of the improvements I had planned is to join a workshop that related to cyb
 
 
 [DESIGN THINKING SLIDE PRESENTATION](https://github.com/user-attachments/files/24694682/CyberCare.CC.A.Smart.Online.Counseling.Platform.for.Cyberbullying.Victims.pdf)
-[DESUGN THINKING REPORT](https://github.com/user-attachments/files/24694694/TIS.DESIGN.THINKING.REPORT.CYBERCARE.SECTION.06.pdf)
+
+[DESIGN THINKING REPORT](https://github.com/user-attachments/files/24694694/TIS.DESIGN.THINKING.REPORT.CYBERCARE.SECTION.06.pdf)
 
 
 
